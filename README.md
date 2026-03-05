@@ -23,3 +23,7 @@ Clone the repo:
 ```bash
 git clone https://github.com/kolurash/stock-market-analyzer.git
 cd stock-market-analyzer
+
+## 🚀 Live Demo
+Try the app here: [Stock Market Analyzer](https://kolurash-stock-market-analyzer-app-kazylm.streamlit.app/)
+
